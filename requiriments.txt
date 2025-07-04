@@ -1,0 +1,8 @@
+# Este arquivo lista as dependências necessárias para o projeto
+# Gerenciador de Clientes em Python com interface Tkinter.
+
+# Biblioteca Tkinter para interface gráfica
+tk
+
+# Observação:
+# O SQLite3 já faz parte da biblioteca padrão do Python e não precisa ser listado aqui.
